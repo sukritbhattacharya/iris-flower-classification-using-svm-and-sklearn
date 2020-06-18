@@ -1,1 +1,3 @@
 # iris-flower-classification-using-svm-and-sklearn
+This projects shows the implementation of the Support Vector Machine (SVM) algorithm on the Iris Flower Dataset available in the `sklearn.datasets` module. 
+Here I have used the default hyperparameters inside the SVC model except the kernel which I changed to 'linear'. You are free to tune the hyperparameters as per your wish by tweaking the parameters like 'C' (regularisation), 'gamma', 'kernel'. Here, the accuracy achieved is 100% because the no. of data points are really less and hence the model didn't make any mistake during the prediction.
